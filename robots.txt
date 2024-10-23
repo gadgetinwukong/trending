@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gadgetinwukong.github.io/trending/sitemap.xml
